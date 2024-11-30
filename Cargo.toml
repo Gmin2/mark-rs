@@ -1,0 +1,12 @@
+[package]
+name = "markdown_parser"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A Markdown parser implementation in Rust"
+license = "MIT"
+repository = "https://github.com/yourusername/markdown_parser"
+
+[dependencies]
+regex = "1.9"
+lazy_static = "1.4"
