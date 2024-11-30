@@ -1,11 +1,11 @@
 [package]
-name = "markdown_parser"
+name = "mark-rs"
 version = "0.1.0"
 edition = "2021"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Mintu Gogogi <mintugogoi567@gmail.com>"]
 description = "A Markdown parser implementation in Rust"
 license = "MIT"
-repository = "https://github.com/yourusername/markdown_parser"
+repository = "https://github.com/Gmin2/mark-rs"
 
 [dependencies]
 regex = "1.9"
